@@ -1,38 +1,38 @@
-S/N,statecode,statename,capitalcity,globalid,geozone,longitude,latitude
-1,AB,Abia,Umuahia,5a651043-340f-4235-9270-bdff3be5ecc3,South East,7.404417992,6.012404442
-2,AD,Adamawa,Yola,7d2a1c11-b5cb-45f3-b61e-7645aade9903,North East,13.58546628,10.94946098
-3,AK,Akwa Ibom,Uyo,83fe39c7-8a62-4bb9-8cf7-8f2b58b5c276,South South,7.710626125,5.519352913
-4,AN,Anambra,Awka,80db4727-d196-4bd9-9b36-51f728d80de2,South East,6.932539463,6.710898399
-5,BA,Bauchi,Bauchi,1f4ec129-23e3-45bb-b60d-de1b159bb5f6,North East,10.65128464,12.5293524
-6,BE,Benue,Makurdi,349b514b-6ec6-4311-b8e8-c253a42347d1,North Central,8.841858864,8.067085266
-7,BR,Borno,Maiduguri,186a35e2-d392-4bf3-8bfd-132da2a2e0f1,North East,12.66343609,13.28722091
-8,BY,Bayelsa,Yenagoa,c92e2ed6-a32c-4b10-b084-1243d6a40178,South South,6.552827835,5.379875183
-9,CR,Cross River,Calabar,c46ae452-d6b6-4618-b3f7-ed6015e978d7,South South,8.848406792,6.865565777
-10,DE,Delta,Asaba,99c8d1d1-4342-41f3-8e59-e293fb7b6acb,South South,6.668920994,6.501234055
-11,EB,Ebonyi,Abakaliki,7f949ae4-887f-4fe0-99a4-3d09aaa27d0e,South East,8.244310379,6.78559494
-12,ED,Edo,Benin City,8fda629d-9983-43d2-b5dc-559e03942bbd,South South,6.133570671,7.552076817
-13,EK,Ekiti,Ado,41307165-bb56-431a-9cab-026e3bee2480,South West,5.505934715,8.018686295
-14,EN,Enugu,Enugu,7d0f6cce-4fc4-4562-aed6-c1e297dcff20,South East,7.674552917,6.855517387
-15,FC,"Fct, Abuja",Abuja,0e73256c-2793-44cc-ab1b-7289f145b866,North Central,7.692970025,9.349402783
-16,GO,Gombe,Gombe,7f847a2d-2643-4825-91f6-629e58024fe8,North East,11.20087576,11.17509038
-17,IM,Imo,Owerri,d4bea7a2-3d76-4985-938c-61dd493be2cb,South East,7.264627457,5.932304382
-18,JI,Jigawa,Dutse,2c75f9fd-00a2-4065-bd61-c861eb6052b4,North West,10.22558111,13.0102
-19,KB,Kebbi,Birnin Kebbi,dd3a51f1-569f-4378-bc0e-2c9338cea694,North West,4.457422615,13.18262222
-20,KD,Kaduna,Kaduna,aa13d807-45e2-4ba8-96ce-371126023935,North West,8.102155055,11.52327987
-21,KN,Kano,Kano,4f4bd140-a2c6-4b0d-a94b-44d2332cf512,North West,8.299041274,12.52953443
-22,KO,Kogi,Lokoja,927798cb-2cb4-4913-8c7c-5cbfeee5fed1,North Central,6.515514545,8.394266547
-23,KT,Katsina,Katsina,93a7428a-4268-4add-b11c-0b1eb0bbc7d6,North West,8.39328133,13.10161264
-24,KW,Kwara,Ilorin,59cd46fa-c2e6-400d-a674-d602265de53c,North Central,3.715393782,10.08939934
-25,LA,Lagos,Lagos,16fa258c-be83-44c4-836e-d4768129a329,South West,3.317112923,6.667160511
-26,NA,Nasarawa,Lafia,fef85acc-cc49-42cb-86ef-c24e93a1d746,North Central,7.792929649,9.275596619
-27,NI,Niger,Minna,eec25567-4a6e-4752-81e3-04821eccc3fd,North Central,4.935756771,11.36634613
-28,OG,Ogun,Abeokuta,7f0787e4-4518-4486-8bc5-51c5232df9d1,South West,2.846128464,7.929880142
-29,ON,Ondo,Akure,5281552e-e3cc-4aeb-a6ff-3f7a4ef3d464,South West,5.926039696,7.731815338
-30,OS,Osun,Oshogbo,05fc3e53-ce0a-491d-9b37-2e9f1e3651fb,South West,4.949749947,8.055476189
-31,OY,Oyo,Ibandan,0edbae77-0091-40d9-afdf-7e249ed797fb,South West,4.210460186,8.970032692
-32,PL,Plateau,Jos,17379e56-2427-44bc-9778-9836eac9fcc4,North Central,8.851674164,10.36438251
-33,RI,Rivers,Port Harcourt,19af34c7-8f2e-4c9a-9ba1-267eadb2d249,South South,6.712041855,5.48919487
-34,SO,Sokoto,Sokoto,143c5cd1-9f44-4935-ab8a-891e4c05451e,North West,5.923481299,13.73622004
-35,TA,Taraba,Jalingo,f34158b3-9a70-40f3-9d64-e97853a3b1fb,North East,11.02739811,9.549074173
-36,YO,Yobe,Damaturu,c03f7766-4ea5-4072-8bb3-713bc72832a5,North East,10.9066658,13.37249947
-37,ZA,Zamfara,Gusau,580df05c-a031-4664-962b-b326bfb53c78,North West,6.3369,13.1686
+S/N,statecode,statename,capitalcity,geozone,longitude,latitude
+1,AB,Abia,Umuahia,South East,7.404417992,6.012404442
+2,AD,Adamawa,Yola,North East,13.58546628,10.94946098
+3,AK,Akwa Ibom,Uyo,South South,7.710626125,5.519352913
+4,AN,Anambra,Awka,South East,6.932539463,6.710898399
+5,BA,Bauchi,Bauchi,North East,10.65128464,12.5293524
+6,BE,Benue,Makurdi,North Central,8.841858864,8.067085266
+7,BR,Borno,Maiduguri,North East,12.66343609,13.28722091
+8,BY,Bayelsa,Yenagoa,South South,6.552827835,5.379875183
+9,CR,Cross River,Calabar,South South,8.848406792,6.865565777
+10,DE,Delta,Asaba,South South,6.668920994,6.501234055
+11,EB,Ebonyi,Abakaliki,South East,8.244310379,6.78559494
+12,ED,Edo,Benin City,South South,6.133570671,7.552076817
+13,EK,Ekiti,Ado,South West,5.505934715,8.018686295
+14,EN,Enugu,Enugu,South East,7.674552917,6.855517387
+15,FC,"Fct, Abuja",Abuja,North Central,7.692970025,9.349402783
+16,GO,Gombe,Gombe,North East,11.20087576,11.17509038
+17,IM,Imo,Owerri,South East,7.264627457,5.932304382
+18,JI,Jigawa,Dutse,North West,10.22558111,13.0102
+19,KB,Kebbi,Birnin Kebbi,North West,4.457422615,13.18262222
+20,KD,Kaduna,Kaduna,North West,8.102155055,11.52327987
+21,KN,Kano,Kano,North West,8.299041274,12.52953443
+22,KO,Kogi,Lokoja,North Central,6.515514545,8.394266547
+23,KT,Katsina,Katsina,North West,8.39328133,13.10161264
+24,KW,Kwara,Ilorin,North Central,3.715393782,10.08939934
+25,LA,Lagos,Lagos,South West,3.317112923,6.667160511
+26,NA,Nasarawa,Lafia,North Central,7.792929649,9.275596619
+27,NI,Niger,Minna,North Central,4.935756771,11.36634613
+28,OG,Ogun,Abeokuta,South West,2.846128464,7.929880142
+29,ON,Ondo,Akure,South West,5.926039696,7.731815338
+30,OS,Osun,Oshogbo,South West,4.949749947,8.055476189
+31,OY,Oyo,Ibandan,South West,4.210460186,8.970032692
+32,PL,Plateau,Jos,North Central,8.851674164,10.36438251
+33,RI,Rivers,Port Harcourt,South South,6.712041855,5.48919487
+34,SO,Sokoto,Sokoto,North West,5.923481299,13.73622004
+35,TA,Taraba,Jalingo,North East,11.02739811,9.549074173
+36,YO,Yobe,Damaturu,North East,10.9066658,13.37249947
+37,ZA,Zamfara,Gusau,North West,6.3369,13.1686
